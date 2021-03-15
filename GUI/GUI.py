@@ -104,7 +104,7 @@ class Window(QMainWindow):
         
     # Metodo para ejecutar acciones en tiempo real
     def sendRealTime(self):
-        herramientas.controlRobot(True)
+        herramientas.realTime(True)
         Window.refrescarPantalla(self,'./Imagenes/banner.png')
         
     # Metodo para realizar test de conexion
