@@ -9,8 +9,23 @@ Debido a su versatilidad y aplicación en la industria, decidimos orientar la id
 
 # Detalles
 
-Se aprecia la comunicación Half Duplex por UART, entre la terminal y el Robot.
+Comunicación Half Duplex por UART, entre la terminal y el Robot.
 <img src="https://github.com/cabustillo13/Control-Robot-by-AVR/blob/main/Demo/Robot_Comandos_por_Terminal.png" width="600" height="300">
 
-Se tiene un archivo .txt con distintas órdenes a ejecutarse línea por línea en el Robot. En el lado izquierdo de la terminal, se aprecia cada orden que se va ejecutando. Opción muy importante para ejecutar rutinas de trabajo.
+Mandar línea por línea de un archivo .txt, para ejecutarlas en el Robot. 
+En el lado izquierdo de la terminal, se aprecia cada orden que se va ejecutando. 
+Opción muy importante para ejecutar rutinas de trabajo.
 <img src="https://github.com/cabustillo13/Control-Robot-by-AVR/blob/main/Demo/Robot_Instrucciones_Guardadas.png" width="600" height="300">
+
+Ejecución de ordenes en tiempo real, controlado por el HMI.
+<img src="https://github.com/cabustillo13/Control-Robot-by-AVR/blob/main/Demo/Robot_Tiempo_Real.png" width="600" height="300">
+
+# Videos
+
+Para observar a mayor profundidad el ṕroyecto, se adjunta videos de las simulaciones: ![Ver Simulaciones](https://drive.google.com/drive/folders/169MZiRC5xDAeVk2aE5PpOs9e-9WUKLkR)
+
+# Autores
+
+- Carlos Bustillo   | cabustillo13@hotmail.com
+- Rodrigo Pérez     | rodrigoperez2110@gmail.com
+- Marzo 2021
