@@ -24,6 +24,8 @@ Ejecución de ordenes en tiempo real, controlado por el HMI.
 
 Para observar a mayor profundidad el ṕroyecto, se adjunta videos de las simulaciones: ![Ver Simulaciones](https://drive.google.com/drive/folders/169MZiRC5xDAeVk2aE5PpOs9e-9WUKLkR)
 
+También se adjunta el informe final:![Ver Informe](https://github.com/cabustillo13/Control-Robot-by-AVR/blob/main/Proyecto%20de%20MyEP%20-%20Bustillo%20_%20Per%C3%A9z.pdf)
+
 # Autores
 
 - Carlos Bustillo   | cabustillo13@hotmail.com
